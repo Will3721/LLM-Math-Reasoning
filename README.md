@@ -13,6 +13,7 @@ This repository explores and implements concepts inspired by the research paper 
 
 ## Repository Structure
 
+-   Report.pdf - a concise and comprehensive report of our method and findings
 -   data/ - a subdirectory containing all the data that was used for evaluating model performance along with the code that was used to generate the data
 -   code/ - all code that was used for the evaluation scripts as well as code that was used for running the HuggingFace and OpenAI models
 -   output/ - a subdirectory containing all models' raw outputs on the evaluation sets, along with the gold labels
