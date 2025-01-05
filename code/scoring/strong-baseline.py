@@ -13,7 +13,7 @@ from transformers import pipeline
 
 # Commented out IPython magic to ensure Python compatibility.
 import openai
-# %set_env OPENAI_API_KEY=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
+# Set your OpenAI API key
 
 import pandas as pd
 import re
